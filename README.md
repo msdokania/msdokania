@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Monalisa! I'm a graduate student majoring in Computer Science (May 2024). I'm looking for internship or co-op oppurtunities in Computer Science, Machine Learning, Data Science and Software Development.
+This is Monalisa! I'm a graduate student majoring in Computer Science (May 2024). I'm looking for internship or co-op opportunities in Computer Science, Machine Learning, Data Science and Software Development.
 
 - 🔭 I’m currently working on different projects in Data mining and Data Visualization, as well as Software verification, validation and Testing
 - 🌱 I’m currently learning more about Software development and data science
