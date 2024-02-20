@@ -12,4 +12,5 @@ This is Monalisa! I'm a Teaching Assistant at ASU and a graduate student majorin
 - 💬 Ask me about java, python, javascript, machine learning and data science
 - 😀 I like to code, read novels, and listen to music in my free time.
 - 📫 How to reach me: https://www.linkedin.com/in/monalisa-dokania/
+- 📫 Please find more about me and my work at: https://msdokania.wixsite.com/monalisa-dokania
 - 😄 Pronouns: she/her
