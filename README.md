@@ -1,16 +1,10 @@
-### Hi there 👋
+### About me :
 
-This is Monalisa! I'm a Teaching Assistant at ASU and a graduate student majoring in Computer Science (May 2024). I'm looking for full-time roles in Computer Science, Cloud Engineering, Machine Learning, Data Science and Software Development.
+I am a Full-stack developer from United States. I have completed a Master's degree in Computer Science from Arizona State University and am working as a Software Engineer.
 
-- 🔭 I’m currently working as Graduate Teaching Assistant for CSE565 (Software verification, validation and Testing - MSCS degree program)
-- 🔭 I’m working on different projects in Distributed database systems, Cloud Computing and Algorithms in Computational Biology
-- 🔭 I’m have previously worked on projects in Android Application development, Data mining and Data Visualization, as well as Software Testing
-- I have completed bootcamp and projects in Multi Cloud architecture utilising Kubernetes and Terraform with AWS and GCP.
-- 🌱 I’m currently learning more about Software security, algorithms, Cloud Computing and Distributed databases
-- 👯 I’m looking to collaborate on open-source/interesting projects
-- 🤔 I’m looking for full-time opportunities, looking to start from June 2024
-- 💬 Ask me about java, python, javascript, machine learning and data science
-- 😀 I like to code, read novels, and listen to music in my free time.
+- 🌱 I’m currently working on full-stack software development of a scalable microservice based architecture (backend + frontend).
+- 🔭 I have previously worked on projects in Android development, Data mining, Machine Learning and Data Visualization.
+- 👯 I’m looking to collaborate on open-source/interesting projects.
+- 💬 Ask me about building scalable distributed systems, AWS, React, java, python, javascript, machine learning and data science.
 - 📫 How to reach me: https://www.linkedin.com/in/monalisa-dokania/
-- 📫 Please find more about me and my work at: https://msdokania.wixsite.com/monalisa-dokania
 - 😄 Pronouns: she/her
