@@ -1,10 +1,20 @@
-### About me :
+# Software Engineer | Full-Stack & Cloud
 
-I am a Full-stack developer from United States. I have completed a Master's degree in Computer Science from Arizona State University and am working as a Software Engineer.
+I design and build **scalable microservice-based platforms** with a focus on **reliability, performance, and clean architecture**.  
+Experienced across backend systems, distributed architectures, cloud infrastructure, CI/CD, and databases.
 
-- 🌱 I’m currently working on full-stack software development of a scalable microservice based architecture (backend + frontend).
-- 🔭 I have previously worked on projects in Android development, Data mining, Machine Learning and Data Visualization.
-- 👯 I’m looking to collaborate on open-source/interesting projects.
-- 💬 Ask me about building scalable distributed systems, AWS, React, java, python, javascript, machine learning and data science.
-- 📫 How to reach me: https://www.linkedin.com/in/monalisa-dokania/
-- 😄 Pronouns: she/her
+- Led end-to-end development of distributed platforms scaled to **100K+ daily active users**  
+- Built **high-throughput microservices** (15K+ requests/sec)  
+- Optimized cloud infrastructure & automated deployments with CI/CD  
+- Mentored engineers and drove best practices across teams  
+
+## 🔧 Tech Stack
+**Languages & Frameworks:** Java, Golang, TypeScript, React, Node.js, tRPC, Prisma  
+**Databases & Messaging:** PostgreSQL, Redis, DynamoDB, Kafka  
+**Cloud & DevOps:** AWS, Kubernetes, Docker, Terraform, Jenkins  
+
+## 🎓 Education
+M.S. in Computer Science (**4.0 GPA**) — Arizona State University  
+
+## 📫 Connect
+📫 [LinkedIn](https://www.linkedin.com/in/monalisa-dokania/)
