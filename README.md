@@ -12,9 +12,9 @@ I’m a Software Engineer who enjoys building product-focussed systems from end-
 
 
 ## 🔧 Tech Stack
-**Languages & Frameworks:** Java, Golang, Python, TypeScript, React, Node.js, tRPC, FastAPI
-**Cloud & DevOps:** AWS, Kubernetes, Docker, Terraform, Jenkins  
-**Databases & Messaging:** PostgreSQL, Redis, DynamoDB, Kafka  
+- **Languages & Frameworks:** Java, Golang, Python, TypeScript, React, Node.js, tRPC, FastAPI  
+- **Cloud & DevOps:** AWS, Kubernetes, Docker, Terraform, Jenkins  
+- **Databases & Messaging:** PostgreSQL, Redis, DynamoDB, Kafka  
 
 ## 🎓 Education
 M.S. in Computer Science (**4.0 GPA**) — Arizona State University  
